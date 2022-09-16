@@ -2,6 +2,8 @@
 
 An Experimental Library To Clear Image Assets Used By R.Library 🛃
 
+### Be aware: This is a experimental project yet, not fully tested. Using the library is your own responsibility.
+
 ## Features
 
 - Find Unused Image Asset Recursively with [ripgrep](https://link-url-here.org)
@@ -9,6 +11,17 @@ An Experimental Library To Clear Image Assets Used By R.Library 🛃
 - Save Search Result As JSON File To The Desktop (Enabled By Default): -s
 - Delete Unused Image Assets: -d
 - Show Total Size Of The Unused Assets.
+
+## Command Reference
+
+#### Delete Unused Assets:
+
+- `-d`: Delete Unused Image Assets From Project Permentantly.
+
+#### Save Result:
+
+- `-s`: Save Search Result As JSON File To The Desktop.
+  (Enabled By Default)
 
 ## Run Locally
 
