@@ -2,7 +2,7 @@
 //  main.swift
 //  AssetCleaner
 //
-//  Created by spresto on 2022/09/15.
+//  Created by Nijat Muzaffarli on 2022/09/15.
 //
 
 import Foundation

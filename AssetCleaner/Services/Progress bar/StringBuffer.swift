@@ -2,7 +2,7 @@
 //  StringBuffer.swift
 //  AssetCleaner
 //
-//  Created by spresto on 2022/09/16.
+//  Created by Nijat Muzaffarli on 2022/09/16.
 //
 
 import Foundation
