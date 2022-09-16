@@ -6,7 +6,7 @@ An Experimental Library To Find Or Clear Unused Image Assets Used By [R.Swift](h
 
 ## Features
 
-- Find Unused Image Asset Recursively with [ripgrep](https://link-url-here.org)
+- Find Unused Image Asset Recursively with [ripgrep](https://github.com/BurntSushi/ripgrep)
   - ripgrep will respect gitignore rules and automatically skip hidden files/directories and binary files,
 - Save Search Result As JSON File To The Desktop (Enabled By Default),
 - Delete Unused Image Assets,
