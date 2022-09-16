@@ -7,9 +7,9 @@ An Experimental Library To Find Or Clear Unused Image Assets Used By [R.Swift](h
 ## Features
 
 - Find Unused Image Asset Recursively with [ripgrep](https://link-url-here.org)
-  - ripgrep will respect gitignore rules and automatically skip hidden files/directories and binary files.
-- Save Search Result As JSON File To The Desktop (Enabled By Default): -s
-- Delete Unused Image Assets: -d
+  - ripgrep will respect gitignore rules and automatically skip hidden files/directories and binary files,
+- Save Search Result As JSON File To The Desktop (Enabled By Default),
+- Delete Unused Image Assets,
 - Show Total Size Of The Unused Assets.
 
 ## Command Reference
@@ -60,7 +60,7 @@ Execution
 
 ```bash
 - Copy Executable to the Project Folder
-- ./AssetCleaner -Arguments
+- ./AssetCleaner [Arguments...]
 ```
 
 ## License
