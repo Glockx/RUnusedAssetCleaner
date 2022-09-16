@@ -1,4 +1,4 @@
-# RUnusedAssetClenaer
+# RUnusedAssetCleaner
 
 An Experimental Library To Find Or Clear Unused Image Assets Used By [R.Swift](https://github.com/mac-cain13/R.swift) 🛃
 
