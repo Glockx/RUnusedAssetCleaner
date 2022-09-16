@@ -1,6 +1,6 @@
 # RUnusedAssetClenaer
 
-An Experimental Library To Clear Image Assets Used By R.Library 🛃
+An Experimental Library To Find Or Clear Unused Image Assets Used By [R.Swift](https://github.com/mac-cain13/R.swift) 🛃
 
 ### Be aware: This is a experimental project yet, not fully tested. Using the library is your own responsibility.
 
